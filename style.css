@@ -1,0 +1,143 @@
+
+    body{ 
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        
+    }
+        h1{
+        font-size: 40px;
+    }
+    .pink-highlight{
+
+        color:Deeppink;
+    }
+    .half-width{
+
+        width:40%;
+        float:left;
+        margin-left: 2%;
+        padding-left:5%;
+
+    }
+    .half-width img{
+
+        width: 100%;
+        
+    }
+    .top-banner{
+    
+            background-image:url("images/header-bg.png");
+            background-position: center;
+            background-repeat: no-repeat;
+        
+    }
+        
+    section{
+        height:500px;
+        padding-bottom: 150px;
+        
+    }
+    .link-button{
+
+        text-decoration: none;
+    border-radius: 5px;
+    padding:10px 10px;
+    background-image: linear-gradient(80deg,Fuchsia,Deeppink);
+    font-weight: 700;
+    color:white;
+    width:70%;
+    }
+    .biography-area{
+        background-image: url("images/biography-bg.png");
+    
+        background-position: right;
+        background-repeat: no-repeat;
+    
+    }
+    #heading{
+        text-align: center;
+    }
+    .second-half-width{
+    
+
+        width:30%;
+        float:left;
+        margin-left: 2%;
+        padding-left:1%;
+
+    }
+    .second-half-width img{
+
+        width: 100%;
+        
+    }
+
+
+    .latest-work{
+        
+        background-image: url("images/latest-work-bg.png");
+        background-position: center;
+        background-repeat: no-repeat;
+
+
+    }
+
+    .bottom-part{
+        text-align: center;
+        background-image: url("images/footer-bg.png");
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+    .contact{
+        color:white;
+        background-color: deeppink;
+        border:20%;
+        border-width: 20%;
+        padding: 10px 20px;
+        text-align: center;
+        width:60%;
+        margin-left: auto;
+        margin-right: auto;
+
+        
+    }
+    footer h6{
+        text-align: center;
+        font-weight: 1280px;
+        color:gray;
+    }
+    .skills-section{
+
+        background-image: url("images/biography-bg.png");
+    
+        background-position: right;
+        background-repeat: no-repeat;
+
+
+    }
+    .for-border{
+
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 5%;
+        height:80%;
+        background-color: white;
+    }
+
+
+    #first-design{
+        border-left: 7px solid;
+        border-image:linear-gradient(180deg ,lightsalmon, tomato);
+        border-image-slice: 1;
+        }
+        #second-design{
+            border-left: 7px solid;
+            border-image:linear-gradient(180deg ,blue,cyan);
+            border-image-slice: 1;
+        }
+
+
+    
+
+
+
